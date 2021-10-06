@@ -2,11 +2,11 @@ title:個人的に欲しいウィッシュリスト
 description:最終更新日 2021年09月
 
 // デカルト・コーディネート (Cartesian Coordinate) 
-// notes: KaGoMe wishlist S15. Recommended MW - Range|tags:pve
+//notes:KaGoMe wishlist S15. Recommended MW - Range|tags:pve
 dimwishlist:item=2481881293&perks=2405638014,689005463,2039302152,1546637391
 
 // クリスラ・メロ (Chrysura Melo) 
-// notes: KaGoMe wishlist S15. Recommended MW - Stability|tags:pve
+//notes:KaGoMe wishlist S15. Recommended MW - Stability|tags:pve
 dimwishlist:item=1337707096&perks=839105230,3230963543,1359896290,2848615171,384158423
 dimwishlist:item=1337707096&perks=839105230,3230963543,1359896290,3523296417,384158423
 dimwishlist:item=1337707096&perks=839105230,106909392,1359896290,2848615171,384158423
